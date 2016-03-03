@@ -1,0 +1,29 @@
+{
+  "name": "call-number",
+  "version": "0.0.2",
+  "description": "Call Number from Cordova Application",
+  "cordova": {
+    "id": "ru.twashtar.callnumber",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoranTwashtar/CordovaCallNumberPlugin.git"
+  },
+  "keywords": [
+    "cordova",
+    "call",
+    "dialer",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/GoranTwashtar/CordovaCallNumberPlugin/issues"
+  },
+  "homepage": "https://github.com/GoranTwashtar/CordovaCallNumberPlugin/CordovaCallNumberPlugin#readme"
+}
