@@ -11,10 +11,6 @@ cordova plugin add https://github.com/GoranTwashtar/CordovaCallNumberPlugin.git
 
 or
 
-``` java
-npm install call-number
-```
-
 Use the plugin in your JS file:
 ``` javascript
 window.plugins.CallNumber.callNumber(onSuccess, onError, number, bypassAppChooser);
